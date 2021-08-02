@@ -41,7 +41,7 @@ age,sex,chestpaintype,trestbps,chol,fbs,restecg,maxheartrate,exang,oldpeak,slope
 65,female,non-anginal pain,160,360,normal,normal,151,no,0.8,downsloping,0,fixed defect,1
 51,female,non-anginal pain,140,308,normal,normal,142,no,1.5,downsloping,1,fixed defect,1
 48,male,atypical angina,130,245,normal,normal,180,no,0.2,flat,0,fixed defect,1
-45,male,typical angina,104,208,normal,normal,148,yes,3,flat,0,fixed defect,1
+45,,typical angina,104,208,normal,normal,148,yes,3,flat,0,fixed defect,1
 53,female,typical angina,130,264,normal,normal,143,no,0.4,flat,0,fixed defect,1
 39,male,non-anginal pain,140,321,normal,normal,182,no,0,downsloping,0,fixed defect,1
 52,male,atypical angina,120,325,normal,abnormal,172,no,0.2,downsloping,0,fixed defect,1
@@ -75,7 +75,7 @@ age,sex,chestpaintype,trestbps,chol,fbs,restecg,maxheartrate,exang,oldpeak,slope
 51,male,typical angina,140,261,normal,normal,186,yes,0,downsloping,0,fixed defect,1
 43,female,non-anginal pain,122,213,normal,abnormal,165,no,0.2,flat,0,fixed defect,1
 55,female,atypical angina,135,250,normal,normal,161,no,1.4,flat,0,fixed defect,1
-51,male,non-anginal pain,125,245,not normal,normal,166,no,2.4,flat,0,fixed defect,1
+51,male,non-anginal pain,125,,not normal,normal,166,no,2.4,flat,0,fixed defect,1
 59,male,atypical angina,140,221,normal,abnormal,164,yes,0,downsloping,0,fixed defect,1
 52,male,atypical angina,128,205,not normal,abnormal,184,no,0,downsloping,0,fixed defect,1
 58,male,non-anginal pain,105,240,normal,normal,154,yes,0.6,flat,0,reversable defect,1
@@ -90,7 +90,7 @@ age,sex,chestpaintype,trestbps,chol,fbs,restecg,maxheartrate,exang,oldpeak,slope
 54,female,non-anginal pain,110,214,normal,abnormal,158,no,1.6,flat,0,fixed defect,1
 58,female,typical angina,100,248,normal,normal,122,no,1,flat,0,fixed defect,1
 48,male,non-anginal pain,124,255,not normal,abnormal,175,no,0,downsloping,2,fixed defect,1
-57,male,typical angina,132,207,normal,abnormal,168,yes,0,downsloping,0,reversable defect,1
+57,,typical angina,132,,normal,abnormal,168,yes,0,downsloping,0,reversable defect,1
 52,male,non-anginal pain,138,223,normal,abnormal,169,no,0,downsloping,4,fixed defect,1
 54,female,atypical angina,132,288,not normal,normal,159,yes,0,downsloping,1,fixed defect,1
 45,female,atypical angina,112,160,normal,abnormal,138,no,0,flat,0,fixed defect,1
